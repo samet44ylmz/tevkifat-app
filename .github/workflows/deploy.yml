@@ -1,0 +1,29 @@
+name: Deploy Tevkifat Module
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Bastion Sunucusuna Baglan ve Guncelle
+      uses: appleboy/ssh-action@v1.0.3
+      with:
+        host: SUNUCU_IP_ADRESINI_BURAYA_YAZ
+        username: prime
+        key: |
+          -----BEGIN OPENSSH PRIVATE KEY-----
+          b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZW
+          QyNTUxOQAAACA3BzABv5LKDgmwcxPGedAZVKgxfPNbT7WiLuUagCWUeQAAAKAl01zPJdNc
+          zwAAAAtzc2gtZWQyNTUxOQAAACA3BzABv5LKDgmwcxPGedAZVKgxfPNbT7WiLuUagCWUeQ
+          AAAED5oCsPYup9leqVkxcU/1ldhh8dPvhTvIJZPeJraq39TjcHMAG/ksoOCbBzE8Z50BlU
+          qDF881tPtaIu5RqAJZR5AAAAF2dpdGh1Yi1hY3Rpb25zLXRldmtpZmF0AQIDBAUG
+          -----END OPENSSH PRIVATE KEY-----
+        port: 22
+        script: |
+          echo "GitHub tarafindan tetiklendi. Kurulum basliyor..."
+          /home/prime/deploy_tevkifat.sh
