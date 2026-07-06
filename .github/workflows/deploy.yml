@@ -13,7 +13,7 @@ jobs:
     - name: Bastion Sunucusuna Baglan ve Guncelle
       uses: appleboy/ssh-action@v1.0.3
       with:
-        host: SUNUCU_IP_ADRESINI_BURAYA_YAZ
+        host: 192.168.1.172
         username: prime
         key: |
           -----BEGIN OPENSSH PRIVATE KEY-----
