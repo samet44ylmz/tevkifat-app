@@ -1,0 +1,345 @@
+[
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "601",
+  "kod": "601",
+  "aciklama": "Yapım işleri + mühendislik/mimarlık/etüt-proje",
+  "oran": 40.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "602",
+  "kod": "602",
+  "aciklama": "Etüt, plan-proje, danışmanlık, denetim vb.",
+  "oran": 90.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "603",
+  "kod": "603",
+  "aciklama": "Makine/teçhizat/demirbaş/taşıt tadil-bakım-onarım",
+  "oran": 70.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "604",
+  "kod": "604",
+  "aciklama": "Yemek servis hizmeti",
+  "oran": 50.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "605",
+  "kod": "605",
+  "aciklama": "Organizasyon hizmeti",
+  "oran": 50.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "606",
+  "kod": "606",
+  "aciklama": "İşgücü temin hizmetleri",
+  "oran": 90.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "607",
+  "kod": "607",
+  "aciklama": "Özel güvenlik hizmeti",
+  "oran": 90.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "608",
+  "kod": "608",
+  "aciklama": "Yapı denetim hizmetleri",
+  "oran": 90.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "609",
+  "kod": "609",
+  "aciklama": "Fason tekstil/konfeksiyon; çanta/ayakkabı; aracılık",
+  "oran": 70.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "610",
+  "kod": "610",
+  "aciklama": "Turistik mağazalara müşteri bulma/götürme",
+  "oran": 90.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "611",
+  "kod": "611",
+  "aciklama": "Spor kulüplerinin yayın/reklam/isim hakkı gelirleri",
+  "oran": 90.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "612",
+  "kod": "612",
+  "aciklama": "Temizlik hizmeti",
+  "oran": 90.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "613",
+  "kod": "613",
+  "aciklama": "Çevre ve bahçe bakım hizmetleri",
+  "oran": 90.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "614",
+  "kod": "614",
+  "aciklama": "Servis taşımacılığı hizmeti",
+  "oran": 50.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "615",
+  "kod": "615",
+  "aciklama": "Her türlü baskı ve basım hizmetleri",
+  "oran": 70.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "616",
+  "kod": "616",
+  "aciklama": "Diğer hizmetler (KDVGUT)",
+  "oran": 50.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "617",
+  "kod": "617",
+  "aciklama": "Hurda metalden elde edilen külçe teslimleri",
+  "oran": 70.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "618",
+  "kod": "618",
+  "aciklama": "Hurda dışı bakır/çinko/demir-çelik/alüminyum/kurşun külçe",
+  "oran": 70.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "619",
+  "kod": "619",
+  "aciklama": "Bakır, çinko, alüminyum ürünlerinin teslimi",
+  "oran": 70.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "620",
+  "kod": "620",
+  "aciklama": "İstisnadan vazgeçenlerin hurda ve atık teslimi",
+  "oran": 70.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "621",
+  "kod": "621",
+  "aciklama": "Metal/plastik/lastik/kauçuk/kâğıt/cam atıklardan hammadde",
+  "oran": 90.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "622",
+  "kod": "622",
+  "aciklama": "Pamuk, tiftik, yün, yapağı; ham post ve deri",
+  "oran": 90.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "623",
+  "kod": "623",
+  "aciklama": "Ağaç ve orman ürünleri",
+  "oran": 50.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "624",
+  "kod": "624",
+  "aciklama": "Yük taşımacılığı hizmeti",
+  "oran": 20.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "625",
+  "kod": "625",
+  "aciklama": "Ticari reklam hizmetleri",
+  "oran": 30.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "626",
+  "kod": "626",
+  "aciklama": "Diğer teslimler",
+  "oran": 20.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "627",
+  "kod": "627",
+  "aciklama": "Demir-çelik ürünlerinin teslimi",
+  "oran": 50.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "801",
+  "kod": "801",
+  "aciklama": "Yapım işleri + mühendislik/mimarlık/etüt-proje (kamu)",
+  "oran": 100.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "802",
+  "kod": "802",
+  "aciklama": "Etüt, plan-proje, danışmanlık, denetim vb. (kamu)",
+  "oran": 100.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "803",
+  "kod": "803",
+  "aciklama": "Makine/teçhizat/demirbaş/taşıt tadil-bakım-onarım (kamu)",
+  "oran": 100.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "804",
+  "kod": "804",
+  "aciklama": "Yemek servis hizmeti (kamu)",
+  "oran": 100.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "805",
+  "kod": "805",
+  "aciklama": "Organizasyon hizmeti (kamu)",
+  "oran": 100.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "806",
+  "kod": "806",
+  "aciklama": "İşgücü temin hizmetleri (kamu)",
+  "oran": 100.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "807",
+  "kod": "807",
+  "aciklama": "Özel güvenlik hizmeti (kamu)",
+  "oran": 100.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "808",
+  "kod": "808",
+  "aciklama": "Yapı denetim hizmetleri (kamu)",
+  "oran": 100.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "809",
+  "kod": "809",
+  "aciklama": "Fason tekstil/konfeksiyon; çanta/ayakkabı; aracılık (kamu)",
+  "oran": 100.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "810",
+  "kod": "810",
+  "aciklama": "Turistik mağazalara müşteri bulma/götürme (kamu)",
+  "oran": 100.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "811",
+  "kod": "811",
+  "aciklama": "Spor kulüplerinin yayın/reklam/isim hakkı gelirleri (kamu)",
+  "oran": 100.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "812",
+  "kod": "812",
+  "aciklama": "Temizlik hizmeti (kamu)",
+  "oran": 100.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "813",
+  "kod": "813",
+  "aciklama": "Çevre ve bahçe bakım hizmetleri (kamu)",
+  "oran": 100.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "814",
+  "kod": "814",
+  "aciklama": "Servis taşımacılığı hizmeti (kamu)",
+  "oran": 100.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "817",
+  "kod": "817",
+  "aciklama": "Hurda dışı bakır/çinko/demir-çelik/alüminyum/kurşun külçe (kamu)",
+  "oran": 100.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "818",
+  "kod": "818",
+  "aciklama": "Bakır, çinko, alüminyum ve kurşun ürünleri (kamu)",
+  "oran": 100.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "819",
+  "kod": "819",
+  "aciklama": "İstisnadan vazgeçenlerin hurda ve atık teslimi (kamu)",
+  "oran": 100.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "820",
+  "kod": "820",
+  "aciklama": "Hurda/atıklardan elde edilen hammadde (kamu)",
+  "oran": 100.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "821",
+  "kod": "821",
+  "aciklama": "Pamuk, tiftik, yün, yapağı; ham post/deri (kamu)",
+  "oran": 100.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "822",
+  "kod": "822",
+  "aciklama": "Ağaç ve orman ürünleri (kamu)",
+  "oran": 100.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "823",
+  "kod": "823",
+  "aciklama": "Yük taşımacılığı hizmeti (kamu)",
+  "oran": 100.0
+},
+{
+  "doctype": "Tevkifat Kodlari",
+  "name": "824",
+  "kod": "824",
+  "aciklama": "Ticari reklam hizmetleri (kamu)",
+  "oran": 100.0
+}
+]
