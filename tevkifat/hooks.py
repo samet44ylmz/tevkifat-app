@@ -213,4 +213,4 @@ app_license = "MIT"
 # auth_hooks = [
 # 	"tevkifat.auth.validate"
 # ]
-fixtures = ["Custom Field", "Client Script", "Property Setter", "Server Script"]
+fixtures = ["Custom Field", "Client Script", "Property Setter", "Server Script", "Tevkifat Kodlari"]
