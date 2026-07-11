@@ -10,4 +10,7 @@ jobs:
     runs-on: self-hosted
     steps:
       - name: Tevkifat Modulunu Guncelle
+        env:
+          OC_SERVER: ${{ secrets.OC_SERVER }}
+          OC_TOKEN: ${{ secrets.OC_TOKEN }}
         run: /home/prime/deploy_tevkifat.sh
