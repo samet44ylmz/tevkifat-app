@@ -213,7 +213,13 @@ app_license = "MIT"
 # auth_hooks = [
 # 	"tevkifat.auth.validate"
 # ]
-fixtures = ["Custom Field", "Client Script", "Property Setter", "Server Script", "Tevkifat Kodlari"]
+fixtures = [
+    {"dt": "Custom Field", "filters": [["fieldname", "like", "custom_tevkifat%"]]},
+    "Client Script",
+    "Property Setter",
+    "Server Script",
+    "Tevkifat Kodlari",
+]
 doc_events = {
     "Sales Invoice": {
         "validate": "tevkifat.tevkifat.utils.set_tevkifat_flag"
