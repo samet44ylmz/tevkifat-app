@@ -214,3 +214,8 @@ app_license = "MIT"
 # 	"tevkifat.auth.validate"
 # ]
 fixtures = ["Custom Field", "Client Script", "Property Setter", "Server Script", "Tevkifat Kodlari"]
+doc_events = {
+    "Sales Invoice": {
+        "validate": "tevkifat.tevkifat.utils.set_tevkifat_flag"
+    }
+}
