@@ -7,4 +7,4 @@ Tevkifat Modulu
 MIT
 pipeline test
 
-
+AI deploy ile guncellendi.
